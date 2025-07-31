@@ -29,7 +29,7 @@ export default function Home() {
       </div>
 
       <div className="mb-1 text-3xl font:Times">
-         Podcast Summary App Hosting Testing
+         Itinerary Generator App Hosting Testing
       </div>   
 
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left"> 
